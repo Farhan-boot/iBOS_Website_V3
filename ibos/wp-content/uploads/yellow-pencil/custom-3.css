@@ -1,0 +1,47 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "IBOS SME" Post
+    02. "IBOS Enterprise" Post
+    03. "IBOS RTM" Post
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "IBOS SME" Post                              */
+/*-----------------------------------------------*/
+body.postid-41 .footer-section .footer-bottom .container{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "IBOS Enterprise" Post                       */
+/*-----------------------------------------------*/
+body.postid-35 .pro-feature-heading p{
+	width:413px;
+	max-width:601px;
+	min-width:550px;
+	text-align:left;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "IBOS RTM" Post                              */
+/*-----------------------------------------------*/
+body.postid-43 .pro-feature-heading p{
+	text-align:left !important;
+	width:530px;
+	min-width:582px;
+}
